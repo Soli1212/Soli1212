@@ -48,41 +48,12 @@
 
 ---
 
-### 📊 Language Proficiency
+ 📊 Language Proficiency
 
-<!-- Chart.js -->
-<div align="center">
-  <canvas id="languageChart" width="400" height="400"></canvas>
-</div>
+<p align="center">
+  <img src="https://quickchart.io/chart?c=%7B%0A%20%20type%3A%27doughnut%27%2C%0A%20%20data%3A%7B%0A%20%20%20%20labels%3A%5B%27Python%27%2C%27C%23%27%5D%2C%0A%20%20%20%20datasets%3A%5B%7B%0A%20%20%20%20%20%20data%3A%5B95%2C85%5D%2C%0A%20%20%20%20%20%20backgroundColor%3A%5B%0A%20%20%20%20%20%20%20%20%27%23FF6B6B%27%2C%0A%20%20%20%20%20%20%20%20%27%234ECDC4%27%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20borderColor%3A%27%23ffffff%27%2C%0A%20%20%20%20%20%20borderWidth%3A3%2C%0A%20%20%20%20%20%20hoverOffset%3A10%0A%20%20%20%20%7D%5D%0A%20%20%7D%2C%0A%20%20options%3A%7B%0A%20%20%20%20cutout%3A%2760%25%27%2C%0A%20%20%20%20plugins%3A%7B%0A%20%20%20%20%20%20legend%3A%7B%0A%20%20%20%20%20%20%20%20position%3A%27right%27%2C%0A%20%20%20%20%20%20%20%20labels%3A%7B%0A%20%20%20%20%20%20%20%20%20%20color%3A%27%23333%27%2C%0A%20%20%20%20%20%20%20%20%20%20font%3A%7Bsize%3A16%2Cweight%3A%27bold%27%7D%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20datalabels%3A%7B%0A%20%20%20%20%20%20%20%20color%3A%27%23fff%27%2C%0A%20%20%20%20%20%20%20%20font%3A%7Bsize%3A18%2Cweight%3A%27bold%27%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20animation%3A%7B%0A%20%20%20%20%20%20duration%3A2000%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D" width="500"/>
+</p>
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script>
-  var ctx = document.getElementById('languageChart').getContext('2d');
-  var languageChart = new Chart(ctx, {
-    type: 'pie',
-    data: {
-      labels: ['Python', 'C#'],
-      datasets: [{
-        data: [95, 85],
-        backgroundColor: ['#3776AB', '#239120'],
-        borderColor: ['#fff', '#fff'],
-        borderWidth: 1
-      }]
-    },
-    options: {
-      responsive: true,
-      plugins: {
-        legend: {
-          labels: {
-            fontColor: 'white'
-          }
-        }
-      }
-    }
-  });
-</script>
-
----
 
 ### ✨ Personal Traits
 
@@ -95,3 +66,5 @@
 ### 📌 Summary
 
 > A 19-year-old backend developer passionate about building powerful APIs, automating with Telegram Bots, and always pushing boundaries in backend development.
+
+---
