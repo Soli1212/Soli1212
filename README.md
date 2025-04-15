@@ -1,49 +1,72 @@
-# Hi there! 👋 I'm Soheil
+<h1 align="center">Hi there 👋, I'm Soheil Ramezanifard</h1>
+<h3 align="center">💻 Backend Developer | 19 y/o | Passionate about building APIs & Telegram Bots</h3>
 
-🚀 **Python Developer | API Enthusiast | Lifelong Learner**
-
----
-
-### 👨‍💻 About Me
-I'm a dedicated Python developer with solid experience in working with a wide range of Python modules and libraries. My main focus and passion are on **API development**, an area where I have built strong skills. Currently, I am also exploring **C#** to broaden my programming knowledge. I am always eager to learn new technologies and expand my skill set.
-
-### 💼 Technical Skills
-
-- **Languages**:
-  - ![Python](https://img.shields.io/badge/-Python-blue)
-  - ![C#](https://img.shields.io/badge/-C%23-green) (Learning)
-
-- **API Development**:
-  - RESTful APIs
-
-- **Tools & Databases**:
-  - ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-blue)
-  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
-  - ![Docker](https://img.shields.io/badge/-Docker-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/API-Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/C%23-Intermediate-green?style=for-the-badge&logo=c-sharp"/>
+</p>
 
 ---
 
-### 🔥 Projects & Learning
-Here are a few highlights of my recent projects and ongoing learning:
+### 🔥 About Me
 
-1. **API Development** - Creating robust and scalable RESTful APIs.
-2. **Exploring C#** - Learning the fundamentals of C# to add a new language to my skill set.
-3. **Database Management** - Working with SQLAlchemy for efficient database operations in Python.
-
----
-
-### 🌱 What I'm Focusing On
-
-- Expanding my API development skills.
-- Building a strong foundation in C#.
-- Continuously learning new technologies and techniques to improve my work.
+- 💡 I'm a passionate **Backend & API Developer**
+- 🔁 Always learning & staying up-to-date
+- 🤝 Strong communication & teamwork
+- 📬 Telegram: [@Bigx4](https://t.me/Bigx4)
 
 ---
 
-### 📫 Connect with Me
-[![Gmail Badge](https://img.shields.io/badge/-soheilworkmail.12@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:soheilworkmail.12@gmail.com)  
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Bigx4)
+### 🚀 Skills Overview
+
+#### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+#### ⚙️ API Development
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core%20(Learning)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+#### 📦 Python Libraries & Tools
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-8B4513?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![PyQt5](https://img.shields.io/badge/-PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-CA4245?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🤖 Telegram Bot Development
+![Telethon](https://img.shields.io/badge/-Telethon-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+![python-telegram-bot](https://img.shields.io/badge/-python--telegram--bot-4A154B?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🌐 Web Scraping
+![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-FF9900?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🗃️ ORMs
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-CA4245?style=for-the-badge)
+![EF Core](https://img.shields.io/badge/-EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
-Thanks for stopping by! ✨ Happy coding! 😊
+### 📊 Language Proficiency
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','C#'],datasets:[{data:[95,85],backgroundColor:['%233776AB','%23239120']}]},options:{plugins:{legend:{labels:{color:'white'}}}}}" alt="Language Proficiency" width="400"/>
+</p>
+
+---
+
+### ✨ Personal Traits
+
+- 🔄 Always curious and willing to grow
+- 🤝 Team player with excellent communication
+- 🌱 Currently learning ASP.NET Core & Clean Architecture
+
+---
+
+### 📌 Summary
+
+> A 19-year-old backend developer passionate about building powerful APIs, automating with Telegram Bots, and always pushing boundaries in backend development.
+
+---
+
