@@ -50,9 +50,37 @@
 
 ### 📊 Language Proficiency
 
-<p align="center">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','C#'],datasets:[{data:[95,85],backgroundColor:['%233776AB','%23239120']}]},options:{plugins:{legend:{labels:{color:'white'}}}}}" alt="Language Proficiency" width="400"/>
-</p>
+<!-- Chart.js -->
+<div align="center">
+  <canvas id="languageChart" width="400" height="400"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  var ctx = document.getElementById('languageChart').getContext('2d');
+  var languageChart = new Chart(ctx, {
+    type: 'pie',
+    data: {
+      labels: ['Python', 'C#'],
+      datasets: [{
+        data: [95, 85],
+        backgroundColor: ['#3776AB', '#239120'],
+        borderColor: ['#fff', '#fff'],
+        borderWidth: 1
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: {
+          labels: {
+            fontColor: 'white'
+          }
+        }
+      }
+    }
+  });
+</script>
 
 ---
 
@@ -67,6 +95,3 @@
 ### 📌 Summary
 
 > A 19-year-old backend developer passionate about building powerful APIs, automating with Telegram Bots, and always pushing boundaries in backend development.
-
----
-
